@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/artem/source/Stack/Stack/build/cmake_install.cmake",
+		"C:/Users/artem/source/Stack/Stack/build/src/cmake_install.cmake",
+		"C:/Users/artem/source/Stack/Stack/build/samples/cmake_install.cmake",
+		"C:/Users/artem/source/Stack/Stack/build/gtest/cmake_install.cmake",
+		"C:/Users/artem/source/Stack/Stack/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

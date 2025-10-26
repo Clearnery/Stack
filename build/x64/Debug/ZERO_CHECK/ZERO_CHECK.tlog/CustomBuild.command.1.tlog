@@ -1,0 +1,10 @@
+^C:\USERS\ARTEM\SOURCE\STACK\STACK\BUILD\CMAKEFILES\92168831BCC1CC6F156E49945C1F7829\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/artem/source/Stack/Stack -BC:/Users/artem/source/Stack/Stack/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/artem/source/Stack/Stack/build/stack.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
