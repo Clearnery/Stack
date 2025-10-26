@@ -1,6 +1,0 @@
-C:/Users/artem/source/Stack/Stack/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/artem/source/Stack/Stack/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/artem/source/Stack/Stack/build/src/CMakeFiles/stack.dir
-C:/Users/artem/source/Stack/Stack/build/samples/CMakeFiles/st.dir
-C:/Users/artem/source/Stack/Stack/build/gtest/CMakeFiles/gtest.dir
-C:/Users/artem/source/Stack/Stack/build/test/CMakeFiles/test_stack.dir
